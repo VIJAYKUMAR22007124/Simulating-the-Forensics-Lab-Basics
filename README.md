@@ -77,7 +77,8 @@
 
 ### **Autopsy**
 
-![](./images/autopsy.png)
+![image](https://github.com/user-attachments/assets/e940838a-db29-4b5a-b390-3c4031aafe18)
+
 
 ---
 
@@ -92,7 +93,8 @@
 
 ### **Creation of Virtual Hard Disk**
 
-![](./images/disk.png)
+![image](https://github.com/user-attachments/assets/80fdcd2f-f767-4bc7-9770-cc39e7557641)
+
 
 ---
 
