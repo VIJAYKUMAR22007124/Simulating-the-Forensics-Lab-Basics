@@ -86,7 +86,8 @@
 
 ![](./images/s1.png)
 
-![](./images/s2.png)
+![image](https://github.com/user-attachments/assets/65c89328-092f-4f52-afa8-96d69706a8fb)
+
 
 ---
 
